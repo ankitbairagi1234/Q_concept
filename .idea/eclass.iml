@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/local/better_player-0.0.79/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/local/better_player-0.0.79/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/local/better_player-0.0.79/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/local/permission_handler-8.3.0/build" />
+      <excludeFolder url="file://$MODULE_DIR$/local/permission_handler-8.3.0/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/local/permission_handler-8.3.0/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/local/better_player-0.0.79/build" />
+      <excludeFolder url="file://$MODULE_DIR$/local/better_player-0.0.79/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/local/better_player-0.0.79/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/local/permission_handler-8.3.0/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/local/permission_handler-8.3.0/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/local/permission_handler-8.3.0/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/local" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
